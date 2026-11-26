@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include mycampany *.css
+recursive-include mycampany *.csv
+recursive-include mycampany *.html
+recursive-include mycampany *.ico
+recursive-include mycampany *.js
+recursive-include mycampany *.json
+recursive-include mycampany *.md
+recursive-include mycampany *.png
+recursive-include mycampany *.py
+recursive-include mycampany *.svg
+recursive-include mycampany *.txt
+recursive-exclude mycampany *.pyc

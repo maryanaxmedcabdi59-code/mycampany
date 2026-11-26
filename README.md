@@ -1,0 +1,7 @@
+## Mycampany
+
+campany
+
+#### License
+
+MIT
